@@ -1,0 +1,60 @@
+.container{
+  width: 700px;
+}
+.name{
+  color: white;
+  background-color: #14577d;
+  padding: 10px 0px;
+}
+.name h1 .h4{
+  font-size: 25px;
+}
+.nav nav{
+  width: 100%;
+  padding: 5px;
+}
+a{
+  font-weight: bold;
+  padding: 5px;
+}
+a:hover{
+  text-decoration: none;
+}
+.type #easy , #hard{
+  margin-right: 10px;
+  border: none;
+  font-weight: bold;
+}
+.type #easy:hover , #hard:hover{
+  background-color: #14577d;
+  color: white;
+}
+.selected{
+  color: white;
+  background-color: #14577d;
+} 
+.work{
+  padding: 20px;
+  background-color: black;
+  min-height: 483px;
+}
+.color{
+  min-height: 150px;
+  max-height: 150px;
+  width: 200px;
+  box-shadow: 1px 1px 10px gray;
+  border-radius: 10px;
+  margin-bottom: 20px;
+  cursor: pointer;
+}
+#check{
+  font-weight: bold;
+  color: gray;
+  font-size: 15px;
+}
+#link{
+  background-color: transparent;
+  border: none;
+  font-weight: bold;
+  color: #14577d;
+}
